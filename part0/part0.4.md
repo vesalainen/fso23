@@ -1,7 +1,7 @@
-title Fullstack Part 0.4
-
 ```mermaid
 sequenceDiagram
+    title Fullstack Part 0.4
+
     participant user
     participant browser
     participant server

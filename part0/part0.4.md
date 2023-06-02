@@ -1,5 +1,6 @@
 title Fullstack Part 0.4
 
+```mermaid
 sequenceDiagram
     participant user
     participant browser
@@ -24,3 +25,4 @@ sequenceDiagram
     deactivate server
 
     browser->>user: Display page
+```

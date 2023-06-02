@@ -1,5 +1,9 @@
 Title: Fullstack Part 0.5
+
+
 Description: A sequence diagram depicting the situation where the user goes to the single-page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
+
+
 Author: Kasper Vesalainen
 
 ```mermaid
